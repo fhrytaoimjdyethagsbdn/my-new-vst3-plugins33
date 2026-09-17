@@ -3,7 +3,7 @@ DF_BASS_001,Moss Roller,Rolling / Organic,"Deep rolling psy bass; woody attack, 
 DF_BASS_002,Root Pressure,Rolling / Deep,Dense forest-floor bass with strong fundamental,Square/Saw blend,LP24,Medium-fast punch,"1/8 sync, low depth",Tube drive + compressor,"Mono, no wide stereo"
 DF_BASS_003,Black Vine,Dark / Acid,Rubbery acid bass with resonant bite,Saw,Low-pass 18/24,Snappy decay,1/16 sync filter movement,Distortion + EQ,"Mono, glide 10 ms"
 DF_BASS_004,Cave Current,Deep / Sub,Dark sustained sub layer with gritty upper harmonics,Sine + subtle saw harmonic,LP12,Short pitch drop,Very subtle 1/8 movement,Soft clip + compressor,Mono
-DF_BASS_005,Night Soil,Rolling / Dirty,Dirty but controlled rolling bass for 145–150 BPM,Saw + square,LP24,Fast attack / short decay,1/16 sync,Downsample-style distortion,Mono
+DF_BASS_005,Night Soil,Rolling / Dirty,Dirty but controlled rolling bass for 145–50 BPM,Saw + square,LP24,Fast attack / short decay,1/16 sync,Downsample-style distortion,Mono
 DF_BASS_006,Witch Root,Acid / Resonant,Resonant forest acid bass,Saw,LP24 resonant,Fast decay,1/16 filter envelope,Diode-style distortion + EQ,"Mono, slight glide"
 DF_BASS_007,Understory,Organic / Groovy,Muted woody bass with percussive front,Triangle + saw,LP18,Punchy decay,1/8 dotted modulation,Saturation + transient shaping,Mono
 DF_BASS_008,Bog Walker,Rolling / Heavy,"Wet, swampy rolling bass with mid growl",Saw + wavetable harmonic,LP24,Fast punch,1/16 sync,Distortion + phaser micro-depth,Mono
