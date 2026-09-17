@@ -1,0 +1,26 @@
+Preset,Name,Style,Sound target,Oscillator concept,Filter,Envelope,LFO,FX chain,Voicing
+DF_BASS_001,Moss Roller,Rolling / Organic,"Deep rolling psy bass; woody attack, tight sub","Saw-like mono oscillator, low octave",LP24,Fast punch envelope,1/16 sync LFO to subtle cutoff wobble,Soft saturation + short room,"Mono, legato, glide 0–20 ms"
+DF_BASS_002,Root Pressure,Rolling / Deep,Dense forest-floor bass with strong fundamental,Square/Saw blend,LP24,Medium-fast punch,"1/8 sync, low depth",Tube drive + compressor,"Mono, no wide stereo"
+DF_BASS_003,Black Vine,Dark / Acid,Rubbery acid bass with resonant bite,Saw,Low-pass 18/24,Snappy decay,1/16 sync filter movement,Distortion + EQ,"Mono, glide 10 ms"
+DF_BASS_004,Cave Current,Deep / Sub,Dark sustained sub layer with gritty upper harmonics,Sine + subtle saw harmonic,LP12,Short pitch drop,Very subtle 1/8 movement,Soft clip + compressor,Mono
+DF_BASS_005,Night Soil,Rolling / Dirty,Dirty but controlled rolling bass for 145–150 BPM,Saw + square,LP24,Fast attack / short decay,1/16 sync,Downsample-style distortion,Mono
+DF_BASS_006,Witch Root,Acid / Resonant,Resonant forest acid bass,Saw,LP24 resonant,Fast decay,1/16 filter envelope,Diode-style distortion + EQ,"Mono, slight glide"
+DF_BASS_007,Understory,Organic / Groovy,Muted woody bass with percussive front,Triangle + saw,LP18,Punchy decay,1/8 dotted modulation,Saturation + transient shaping,Mono
+DF_BASS_008,Bog Walker,Rolling / Heavy,"Wet, swampy rolling bass with mid growl",Saw + wavetable harmonic,LP24,Fast punch,1/16 sync,Distortion + phaser micro-depth,Mono
+DF_BASS_009,Fungal Drive,Distorted / Mid,Fuzzy mid-bass over a clean sub foundation,Saw,LP12,Medium decay,1/8 sync,Wavefold/clip + compressor,Mono
+DF_BASS_010,Deadwood,Dark / Short,Short woody bass stabs for syncopated patterns,Square + saw,LP24,Very short decay,1/16 gate-like LFO,Saturation + EQ,Mono
+DF_BASS_011,Forest Coil,Rolling / Acid,"Coiled, rubbery bass with moving resonance",Saw,LP24,Fast punch,1/16 sync cutoff,Distortion + chorus very low,Mono
+DF_BASS_012,Murk Engine,Heavy / Mechanical,Mechanical dark bass with aggressive mid body,Saw + digital harmonic,LP18,Fast attack / medium decay,1/8 sync,Hard clip + EQ,Mono
+DF_BASS_013,Spore Pulse,Pulsing / Deep,Pulsing subterranean bass texture,Triangle + saw,LP12,Medium decay,1/8 pulse,Soft saturation + compressor,Mono
+DF_BASS_014,Shadow Resin,Deep / Warm,Warm resin-like rolling bass,Saw,LP24,Fast punch,1/16 subtle,Tape-style saturation,Mono
+DF_BASS_015,Grave Moss,Dark / Sub,Very dark sub with barely audible gritty edge,Sine + saw,LP18,Short pitch envelope,1/8 subtle,Soft clip,Mono
+DF_BASS_016,Toxic Fern,Acid / Aggressive,Nasty resonant bass with sharp upper edge,Saw,LP24 high resonance,Snappy,1/16 filter LFO,Distortion + EQ notch control,"Mono, glide 5–15 ms"
+DF_BASS_017,Root Circuit,Digital / Rolling,"Digitalized rolling bass, still tight in the low end",Saw + digital wavetable,LP18,Fast punch,1/16 sync,Bitcrush very controlled + compressor,Mono
+DF_BASS_018,Hollow Trunk,Organic / Hollow,Hollow woody bass with formant-like movement,Saw + triangle,LP24,Short decay,1/8 slow movement,Saturation + subtle phaser,Mono
+DF_BASS_019,Blackwater,Wet / Deep,Dark wet bass with liquid movement,Saw,LP12/18,Medium decay,1/16 sync,Distortion + short delay feedback low,Mono
+DF_BASS_020,Canopy Bite,Rolling / Punchy,Punchy top-heavy bass for dense forest mixes,Saw + square,LP24,Very fast punch,1/16 sync,Clipper + EQ,Mono
+DF_BASS_021,Ancient Circuit,Dark / Psy,Vintage psy rolling bass with analog character,Saw,LP24,Fast decay,1/16 sync,Analog-style saturation + compressor,Mono
+DF_BASS_022,Root Rot,Dirty / Aggressive,"Rotten, distorted bass with controlled sub",Saw + square,LP18,Fast attack / short decay,1/16 stepped modulation,Distortion + multiband-style control,Mono
+DF_BASS_023,Moonlit Bog,Deep / Atmospheric,Deep bass with eerie upper resonance,Triangle + saw,LP12,Medium punch,1/8 sync,Saturation + subtle chorus,Mono
+DF_BASS_024,Thorn Machine,Mechanical / Acid,Sharp thorny acid bass with rhythmic cutoff,Saw,LP24 resonance,Snappy,1/16 sync,Distortion + EQ,"Mono, slight glide"
+DF_BASS_025,Forest Abyss,Signature / Deep,Large dark rolling bass; clean sub plus haunted mids,Sine + saw/wavetable harmonic,LP18/24,Punch + controlled tail,1/16 sync with macro depth,Saturation + compressor + subtle ambience,"Mono, tight low end"
